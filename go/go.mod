@@ -1,4 +1,4 @@
-module github.com/matheusflauzino/full-cycle-immersion/go
+module github.com/devfullcycle/imersao13/go
 
 go 1.20
 
